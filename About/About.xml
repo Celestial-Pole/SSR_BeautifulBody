@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[SSR]Beautiful Body 身形美化</name>
+	<author>Nesi,Celestial Pole</author>
+	<packageId>SSR.Body</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2985408740</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>
+		用全新的美术风格替换了原版的身形和服装，需注意与原版身形不兼容
+		With a new art style to replace the original body shape and clothing, it should be noted that the original body shape is incompatible.
+	</description>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>vanillaracesexpanded.archon</li>
+		<li>vanillaracesexpanded.highmate</li>
+		<li>vanillaracesexpanded.lycanthrope</li>
+		<li>vanillaracesexpanded.phytokin</li>
+		<li>vanillaracesexpanded.waster</li>
+		<li>VanillaExpanded.VAPPE</li>
+		<li>ChJees.Androids14</li>
+		<li>MO.Size.Valentine.Apparel</li>
+		<li>XMB.AncientUrbanrUins.MO</li>
+	</loadAfter>
+</ModMetaData>

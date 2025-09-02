@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>
+			Defs/ThingDef[defName="VAE_Apparel_Jeans"]/apparel
+		</xpath>
+		<value>
+			<wornGraphicPath>Things/Apparel/Pants/Jeans</wornGraphicPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>
+			Defs/ThingDef[defName="VAE_Apparel_Shorts"]/apparel
+		</xpath>
+		<value>
+			<wornGraphicPath>Things/Apparel/Pants/Shorts</wornGraphicPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>
+			Defs/ThingDef[defName="VAE_Apparel_Skirt"]/apparel
+		</xpath>
+		<value>
+			<wornGraphicPath>Things/Apparel/Pants/Skirt</wornGraphicPath>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>
+			Defs/ThingDef[defName="VAE_Apparel_Trousers"]/apparel
+		</xpath>
+		<value>
+			<wornGraphicPath>Things/Apparel/Pants/Trousers</wornGraphicPath>
+		</value>
+	</Operation>
+
+</Patch>
